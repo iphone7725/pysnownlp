@@ -1,5 +1,4 @@
-# pysnownlp
- Stata调用SnowNLP进行情感分析
+
 *Stata调用Python的SnowNLP进行中文情感分析
 *do SnowNLP v 20
 *对变量v的第20行运行情感分析
